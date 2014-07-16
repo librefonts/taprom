@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <feat>
+    <hexdata>
+      00010000 00020000 00000000 00000001
+      00000024 00000100 00010001 00000028
+      00000101 00000102 00020103 
+    </hexdata>
+  </feat>
+
+</ttFont>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),??with Reserved Font Name NiDA Taprom.??This Font Software is licensed under the SIL Open Font License, Version 1.1.??This license is available with a FAQ at: http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Taprom
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      Taprom:Version 3.10
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Taprom
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 3.10 December 28, 2010
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Taprom
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0">
+      This font was created using FontCreator 5.6 from High-Logic.com
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x0">
+      All Typographic Features
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x0">
+      Ligatures
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x0">
+      All Type Features
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x0">
+      Common Ligatures
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),&#13;&#10;with Reserved Font Name Taprom.&#13;&#10;This Font Software is licensed under the SIL Open Font License, Version 1.1.&#13;&#10;This license is available with a FAQ at: http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Taprom
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Taprom:Version 3.10
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Taprom
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 3.10 December 28, 2010
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Taprom
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      This font was created using FontCreator 5.6 from High-Logic.com
+    </namerecord>
+  </name>
+
+</ttFont>
