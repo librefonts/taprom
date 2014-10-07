@@ -1,0 +1,24 @@
+{
+  "name": "Taprom",
+  "designer": "Danh Hong",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 67537,
+  "fonts": [
+    {
+      "name": "Taprom",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Taprom-Regular.ttf",
+      "postScriptName": "Taprom",
+      "fullName": "Taprom",
+      "copyright": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),\r\nwith Reserved Font Name Taprom.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-03-02"
+}
